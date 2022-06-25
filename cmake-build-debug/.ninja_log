@@ -1,0 +1,21 @@
+# ninja log v5
+1	1018	6777444345202725	CMakeFiles/DataFlowUnderstanding.dir/main.cpp.obj	a5cf84a0d0823e86
+1023	2008	6777444354929650	DataFlowUnderstanding.exe	88eaade4395923ba
+45	1360	6777492206126354	src/CMakeFiles/DataFlowUnderstanding_run.dir/main.cpp.obj	4b6e6ad9a4812704
+46	904	6777470998204068	src/CMakeFiles/DataFlowUnderstanding_run.dir/FootManager.cpp.obj	722b29ff82d5a95b
+1361	2410	6777492214631555	src/DataFlowUnderstanding_run.exe	2d8aa2cc30cbf824
+40	879	6777470997954019	src/CMakeFiles/DataFlowUnderstanding_run.dir/FootPlayer.cpp.obj	15082b1c67f49e4f
+1	1292	6777492205426384	src/CMakeFiles/DataFlowUnderstanding_run.dir/FileManager.cpp.obj	d2850aba5840c2c5
+0	1015	6777455450603075	src/CMakeFiles/DataFlowUnderstanding_run.dir/Person.cpp.obj	751c497be9205499
+1	1203	6777502159128879	src/CMakeFiles/DataFlowUnderstanding_run.dir/FileManager.cpp.obj	d2850aba5840c2c5
+42	1210	6777502159168891	src/CMakeFiles/DataFlowUnderstanding_run.dir/main.cpp.obj	4b6e6ad9a4812704
+1211	1720	6777502163213218	src/DataFlowUnderstanding_run.exe	2d8aa2cc30cbf824
+65	1347	6777519735660698	src/CMakeFiles/DataFlowUnderstanding_run.dir/main.cpp.obj	4b6e6ad9a4812704
+0	1373	6777519735900729	src/CMakeFiles/DataFlowUnderstanding_run.dir/FileManager.cpp.obj	d2850aba5840c2c5
+1376	2030	6777519741487620	src/DataFlowUnderstanding_run.exe	2d8aa2cc30cbf824
+16	1014	6777525247564796	src/CMakeFiles/DataFlowUnderstanding_run.dir/main.cpp.obj	4b6e6ad9a4812704
+1	1018	6777525247584798	src/CMakeFiles/DataFlowUnderstanding_run.dir/FileManager.cpp.obj	d2850aba5840c2c5
+1023	1679	6777525252995342	src/DataFlowUnderstanding_run.exe	2d8aa2cc30cbf824
+1	885	6777530995610585	src/CMakeFiles/DataFlowUnderstanding_run.dir/FileManager.cpp.obj	d2850aba5840c2c5
+16	891	6777530995600568	src/CMakeFiles/DataFlowUnderstanding_run.dir/main.cpp.obj	4b6e6ad9a4812704
+896	1582	6777531001674808	src/DataFlowUnderstanding_run.exe	2d8aa2cc30cbf824
